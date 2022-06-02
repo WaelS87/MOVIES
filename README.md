@@ -1,5 +1,5 @@
 # Nuevo Proyecto
 ## integrantes
 Wael,35 años,Lanus
-Roberto
+Roberto, 38 años, La Boca - CABA.
 Ilich
