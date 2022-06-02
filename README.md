@@ -1,5 +1,5 @@
 # Nuevo Proyecto
 ## integrantes
-Wael
+Wael,35 años,Lanus
 Roberto
 Ilich
